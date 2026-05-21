@@ -46,6 +46,19 @@ https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-datase
 
 ---
 
+## Novelty
+
+- Implemented automated lung region extraction and preprocessing for improved chest X-ray analysis.
+- Applied image normalization and resizing techniques to enhance model training quality.
+- Developed a customized CNN architecture for Tuberculosis classification.
+- Integrated Batch Normalization to improve training stability and convergence.
+- Used Dropout regularization to reduce overfitting and improve generalization.
+- Performed automatic feature extraction directly from chest X-ray images without manual feature engineering.
+- Evaluated model performance using ROC Curve, AUC Score, Precision, Recall, and F1-Score.
+- Added visualization techniques such as confusion matrix and prediction analysis for better interpretability.
+
+---
+
 ## Future Improvements
 -Transfer Learning integration
 -Explainable AI using Grad-CAM
